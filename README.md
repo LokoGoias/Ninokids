@@ -1,5 +1,7 @@
 # Ninokids
 
+🔗 **Política de Privacidade publicada em:** https://lokogoias.github.io/Ninokids/
+
 ## Política de Privacidade (Google Play)
 
 Este aplicativo infantil foi desenvolvido com base em **Privacy by Design**.
